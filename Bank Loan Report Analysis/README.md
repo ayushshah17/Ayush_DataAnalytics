@@ -33,8 +33,11 @@ This repository contains a series of Power BI dashboards designed for comprehens
 
 ## Screenshots
 Here are some snapshots of the dashboards:
-![Summary Dashboard](images/summary_dashboard.png)
-![Overview Dashboard](images/overview_dashboard.png)
-![Details Dashboard](images/details_dashboard.png)
+![Summary Dashboard]![image](https://github.com/ayushshah17/Ayush_DataAnalytics/assets/68246527/2c801259-615a-455f-bee2-844783ccbd05)
+
+![Overview Dashboard]![image](https://github.com/ayushshah17/Ayush_DataAnalytics/assets/68246527/424e5b0c-d7a1-4f5d-a3ff-350c9ac632d4)
+
+![Details Dashboard]![image](https://github.com/ayushshah17/Ayush_DataAnalytics/assets/68246527/e3f0a873-f4ef-4d06-b50a-4c911d3e6521)
+
 
 
