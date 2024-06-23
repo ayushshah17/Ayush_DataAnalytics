@@ -1,52 +1,31 @@
-# Hotel Management Report Dashboard
+# HR Analytics Dashboard
 
-## Project Overview
-This Power BI dashboard is developed to assist hotel managers in effectively monitoring and analyzing key performance indicators related to hotel operations. It offers detailed insights into occupancy rates, revenue, booking trends, and room utilization, with the capability to drill down into weekly, monthly, and quarterly data.
+## Overview
+This Power BI dashboard provides a comprehensive view of human resource metrics within an organization. It is designed to assist HR managers and executives in monitoring employee demographics, attrition rates, job satisfaction, and educational background impacts on employee retention.
 
 ## Dashboard Features
 
-### Key Metrics and Visualizations
-1. **Occupancy Rate Analysis**
-   - Visualize occupancy rate trends across different time frames.
-   - Identify patterns in occupancy that can help optimize room availability and pricing strategies.
+### Key Performance Indicators
+- **Overall Employees**: Displays the total number of employees within the organization.
+- **Attrition Rate**: Shows the percentage of employees who have left the company, helping to identify trends and areas of concern.
+- **Active Employees**: Indicates the number of currently active employees.
+- **Average Age**: Provides the average age of employees, giving insights into the generational makeup of the workforce.
 
-2. **Total Occupied Rooms Trend**
-   - Track the number of rooms occupied over time to manage resource allocation efficiently.
-
-3. **Average Daily Rate (ADR) Analysis**
-   - Monitor the average daily rate to adjust pricing strategies and enhance revenue management.
-
-4. **Revenue Per Available Room (RevPAR) Trend**
-   - Evaluate the revenue generated per available room to gauge overall financial performance.
-
-5. **Total Bookings Trend**
-   - Analyze booking trends to forecast demand and adjust marketing strategies.
-
-6. **Weekend vs. Weekday Bookings Analysis**
-   - Compare booking patterns between weekends and weekdays to tailor specific marketing and operational strategies.
-
-7. **Cancelled Bookings Trend**
-   - Visualize and analyze cancellation trends to develop strategies that minimize booking cancellations.
-
-8. **Total Revenue Analysis**
-   - Provide a comprehensive view of the total revenue generated, facilitating target setting and financial forecasting.
-
-9. **Detailed Revenue Breakdown**
-   - Break down revenue by week nights and weekend nights to optimize pricing strategies for different times.
-
-10. **Interactive Charts for Revenue and Occupancy**
-    - Bar charts displaying weekly trends in revenue and room occupancy with average lines to highlight performance against averages.
+### Detailed Visualizations
+- **Department-wise Attrition**: Pie chart showing attrition rates across different departments.
+- **Employee Distribution by Age Group**: Bar chart representing the number of employees within various age groups.
+- **Education Field-wise Attrition**: Bar chart detailing attrition rates based on educational background.
+- **Job Satisfaction Rating**: Table displaying job satisfaction ratings across various job roles.
+- **Attrition Rate by Gender for Different Age Groups**: Pie charts showing gender-based attrition differences within specific age bands.
 
 ## Objectives
-The primary objective of this dashboard is to:
-- Provide real-time insights into hotel operations.
-- Enable hotel managers to make informed decisions based on current trends in occupancy and revenue.
-- Help optimize pricing and marketing strategies to maximize profitability.
-
+The primary aim of this dashboard is to:
+- Enable effective monitoring of key HR metrics to support strategic decision-making.
+- Identify patterns in attrition to improve employee retention strategies.
+- Analyze job satisfaction across departments to enhance employee engagement initiatives.
 
 ## Screenshots
-![image](https://github.com/ayushshah17/Ayush_DataAnalytics/assets/68246527/46c34e8c-fdba-42d9-9782-03b9f2dd5266)
-
-
+Here are snapshots of various components of the dashboard:
+![image](https://github.com/ayushshah17/Ayush_DataAnalytics/assets/68246527/674b648f-e383-40af-9af3-f3d505c5ba3a)
 
 
