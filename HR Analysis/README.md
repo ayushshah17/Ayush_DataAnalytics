@@ -45,7 +45,8 @@ The primary objective of this dashboard is to:
 
 
 ## Screenshots
-![image](https://github.com/ayushshah17/Ayush_DataAnalytics/assets/68246527/fc7ae0a6-7c42-4909-baaf-dc44bb7814ba)
+![image](https://github.com/ayushshah17/Ayush_DataAnalytics/assets/68246527/46c34e8c-fdba-42d9-9782-03b9f2dd5266)
+
 
 
 
